@@ -1,0 +1,7 @@
+To use Custom Music Discs, the music files must meet the requirement!
+- File must be .ogg
+- File Name must be from 1 - 13, example: 1.ogg, 2.ogg,...
+- Multiple Music Files must require to follow in top to bottom Number order
+- Music Files must be in the folder where this text file is!
+
+If file does not meet the following, game will fail to load the audio and will default back to the original audio
