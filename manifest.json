@@ -3,16 +3,16 @@
     "header": {
         "description": "Replace Record Sounds with Music",
         "name": "Custom Record Disc",
-        "uuid": "395037c2-b469-11e9-a2a3-2a2ae2dbcce4",
-        "version": [1, 0, 0],
-        "min_engine_version": [1, 14, 0]
+        "uuid": "56ca1626-a131-47af-883d-18fc0a7246f4",
+        "version": [2, 0, 0],
+        "min_engine_version": [1, 16, 0]
     },
     "modules": [
         {
             "description": "Replace Record Sounds with Music",
             "type": "resources",
-            "uuid": "f8e7e659-ab5c-4909-8da9-fb960c555dc0",
-            "version": [1, 0, 0]
+            "uuid": "07b65c50-cbb9-446e-aa9a-9ce99b900b44",
+            "version": [2, 0, 0]
         }
     ]
 }
