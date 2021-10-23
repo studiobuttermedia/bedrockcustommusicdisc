@@ -5,7 +5,7 @@
         "name": "Custom Record Disc",
         "uuid": "56ca1626-a131-47af-883d-18fc0a7246f4",
         "version": [2, 0, 0],
-        "min_engine_version": [1, 16, 0]
+        "min_engine_version": [1, 16, 100]
     },
     "modules": [
         {
